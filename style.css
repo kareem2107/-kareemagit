@@ -1,0 +1,51 @@
+#pictureSection{
+   widows: 160px;
+   height: 200px;
+   border: 1px solid black;
+   margin-left:50px;
+   margin-top:40px;
+ }
+ .container{
+   background-color: rgb(206, 219, 226);
+ }
+ 
+ #myInfo{
+   font-weight: bold;
+   font-family: ‘Times New Roman’, Times, serif;
+   margin-top:40px;
+ }
+ #divider{
+   margin-top:40px;
+   height: 500px;
+   border-left: 1px solid black;
+ }
+ #outerDiv{
+   width: 900px;
+   height: 710px;
+   border: 3px solid black;
+   margin:auto;
+   margin-top: 10px;
+   background-color: white;
+   box-shadow: 0 16px 16px 16px black;
+ }
+ #workExperience{
+  height: 30px;
+  width:100%;
+  background-color: rgb(29, 56, 105);
+  color: white;
+  font-weight: bold;
+  margin-top: 30px;
+  padding: 5px;
+ }
+ 
+ #pageNumberSection{
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    border: 1px solid black;
+    margin-top: 20px;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(29, 56, 105);
+    color: white
+   }
